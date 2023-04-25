@@ -1,0 +1,5 @@
+Django>=3.2 
+SpeechRecognition>=3.8.1 
+PyDub>=0.25.1 
+Requests>=2.25.1 
+ffmpeg-python
